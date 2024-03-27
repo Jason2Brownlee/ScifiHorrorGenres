@@ -6,10 +6,10 @@ Figuring out what I like, what might be fun to read, and what might be fun to ex
 
 ## Genre Explorations
 
-* [Cosmic Horror and Subgenres](genres/cosmic_horror.md)
-* [Scifi Horror and Subgenres](genres/scifi_horror.md)
-* Developer Fiction
-
+* [Cosmic Horror](genres/cosmic_horror.md)
+* [Scifi Horror](genres/scifi_horror.md)
+* [Developer Fiction](genres/developer_fiction.md)
+* [Techno-Horror](genres/techno_horror.md)
 
 ## References
 
