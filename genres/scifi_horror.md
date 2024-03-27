@@ -1,4 +1,4 @@
-# "Scifi and Horror", and "Scifi-Horror"
+# Scifi Horror Genre
 
 
 ## What is Scifi-Horror?
@@ -76,7 +76,7 @@ Sci-fi horror is a rich genre that melds the imaginative possibilities of scienc
 Each of these sub-genres leverages specific aspects of science fiction to explore and evoke horror, from the existential and cosmic to the intimate and psychological. The versatility and depth of sci-fi horror allow it to continually evolve, offering endless possibilities for new and terrifying stories.
 
 
-## Scifi <=> Horror Continuum
+## Scifi-Horror Continuum
 
 Creating a continuum between sci-fi and horror involves blending elements of both genres in various proportions. I'll sketch a spectrum that starts with pure science fiction, gradually incorporates horror elements, and ends in pure horror. This spectrum is somewhat subjective and many works might straddle two points, but it should serve as a useful guide.
 
@@ -116,7 +116,7 @@ Creating a continuum between sci-fi and horror involves blending elements of bot
 This continuum shows how fluidly genres can blend into each other, creating unique and compelling narratives that defy strict categorization.
 
 
-## New Scifi <=> Horror Subgenres
+## New Scifi-Horror Subgenres
 
 Inventing new subgenres within the sci-fi and horror nexus that are ripe for exploration can offer exciting opportunities for new writers. These fresh intersections could spark unique stories. Here are ten speculative sci-fi-horror genres with examples, where available, or potential directions for development:
 

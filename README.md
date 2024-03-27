@@ -6,7 +6,9 @@ Figuring out what I like, what might be fun to read, and what might be fun to ex
 
 ## Genre Explorations
 
-* [Scifi <=> Horror Continuum](genres/scifi_horror.md)
+* [Cosmic Horror and Subgenres](genres/cosmic_horror.md)
+* [Scifi Horror and Subgenres](genres/scifi_horror.md)
+* Developer Fiction
 
 
 ## References
