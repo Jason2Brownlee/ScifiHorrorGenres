@@ -6,7 +6,7 @@ Figuring out what I like, what might be fun to read, and what might be fun to ex
 
 ## Genre Explorations
 
-* [Scifi <=> Horror Continuum](scifi_horror.md)
+* [Scifi <=> Horror Continuum](genres/scifi_horror.md)
 
 
 ## References
