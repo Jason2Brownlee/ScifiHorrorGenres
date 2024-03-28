@@ -11,6 +11,7 @@ Figuring out what I like, what might be fun to read, and what might be fun to ex
 * [Developer Fiction](genres/developer_fiction.md)
 * [Techno-Horror](genres/techno_horror.md)
 * [Cosmic Tech Horror](genres/cosmic_tech_horror.md)
+* [Techno-Linguistic Horror](techno_linguistic_horror.md)
 
 ## References
 
